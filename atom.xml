@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Malatya Korsan Taksi | Havalimanı, Battalgazi ve Darende</title>
+  <link href="https://malatyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://malatyakorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://malatyakorsantaksi.github.io/</id>
+  <updated>2026-11-19T18:26:38.226Z</updated>
+  <author><name>Malatya Korsan Taksi</name></author>
+  <entry>
+    <title>Malatya Korsan Taksi | Havalimanı, Battalgazi ve Darende</title>
+    <link href="https://malatyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://malatyakorsantaksi.github.io/</id>
+    <updated>2026-11-19T18:26:38.226Z</updated>
+    <summary>Malatya korsan taksi: Malatya Havalimanı Yeşilyurt'tan 26 km, Battalgazi ve Arslantepe, hastaneler, Darende Tohma Kanyonu, Arapgir ve Doğanşehir yolu.</summary>
+  </entry>
+</feed>

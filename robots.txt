@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malatyakorsantaksi.github.io/sitemap.xml
